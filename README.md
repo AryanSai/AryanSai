@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryan Sai Arvapelly</h1>
-<h3 align="center">An M.Tech Computer Science from India 🇮🇳</h3>
+<h3 align="center">An M.Tech Computer Science Student from India 🇮🇳</h3>
 
 - 🔭 I’m currently working on [Text2SQL using LLMs and PLMs](https://github.com/AryanSai/Text2SQL)
 
